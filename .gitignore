@@ -9,6 +9,5 @@ compile_commands.json
 CTestTestfile.cmake
 bin/*
 bin
-build.sh
-run.sh
-buildrun.sh
+scripts/*
+scripts

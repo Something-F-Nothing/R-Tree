@@ -9,6 +9,7 @@ Created by Guttman in "R-Trees: A Dynamic Index Structure for Spatial Searching"
 
 - **Language:** C++(14)
 - **Compiler Tested:** GNU C++(GCC)
+- **Test:** googletest
 
 ***
 ### License:

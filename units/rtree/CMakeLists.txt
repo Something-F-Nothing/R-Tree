@@ -16,3 +16,5 @@ target_include_directories(rtree
     PUBLIC $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/inc>
     PUBLIC $<INSTALL_INTERFACE:inc/rtree>
     )
+
+add_subdirectory(test)
